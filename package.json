@@ -1,11 +1,11 @@
 {
-  "name": "code-tracker",
-  "displayName": "Code Tracker",
+  "name": "code-tracker-ipynb",
+  "displayName": "Code Tracker IPYNB",
   "description": "Automatically track and save Jupyter notebook states to your API when cells are executed. Manage your client key and view tracked files through an intuitive settings panel.",
   "version": "0.0.1",
-  "publisher": "Moez Missaoui",
+  "publisher": "MoezMissaoui",
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.106.0"
   },
   "categories": [
     "Other",
