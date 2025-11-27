@@ -3,7 +3,7 @@
   "displayName": "Code Tracker",
   "description": "Automatically track and save Jupyter notebook states to your API when cells are executed. Manage your client key and view tracked files through an intuitive settings panel.",
   "version": "0.0.1",
-  "publisher": "YOUR_PUBLISHER_NAME",
+  "publisher": "Moez Missaoui",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "YOUR_REPOSITORY_URL"
+    "url": "https://github.com/MoezMissaoui/Code-Tracker-Extension-VS-Code"
   },
   "license": "MIT",
   "icon": "icon.png",
